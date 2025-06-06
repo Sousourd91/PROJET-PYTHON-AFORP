@@ -1,0 +1,6 @@
+May 10 14:01:59 ubuntu sshd[12345]: Failed password for invalid user root from 192.168.1.12 port 55874 ssh2
+May 10 14:02:02 ubuntu sshd[12345]: Failed password for user1 from 203.0.113.5 port 55875 ssh2
+May 10 14:02:05 ubuntu sshd[12345]: Failed password for user1 from 203.0.113.5 port 55876 ssh2
+May 10 14:02:10 ubuntu sshd[12345]: Failed password for admin from 10.0.0.10 port 55877 ssh2
+May 10 14:02:15 ubuntu sshd[12345]: Failed password for invalid user test from 198.51.100.23 port 55878 ssh2
+May 10 14:02:20 ubuntu sshd[12345]: Failed password for root from 192.168.1.12 port 55879 ssh2
